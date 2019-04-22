@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Car
+  - TrackSpawner
+  - TrackSpawnerFront
+  - FirePoint
+  - MainDesert
+  - CarBullet
+  - Lightening
+  - MTBullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Car Layer
+  - Wheels Layer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3402479823
+    locked: 0
+  - name: Stars 1
+    uniqueID: 1008595099
+    locked: 0
+  - name: Stars 2
+    uniqueID: 147233419
+    locked: 0
+  - name: Clouds 1
+    uniqueID: 3277384289
+    locked: 0
+  - name: Clouds 2
+    uniqueID: 2235422817
+    locked: 0
+  - name: Sun
+    uniqueID: 2888774875
+    locked: 0
+  - name: 'Mountain1 '
+    uniqueID: 3665667669
+    locked: 0
+  - name: Mountain 2
+    uniqueID: 2463458541
+    locked: 0
+  - name: Layer 1
+    uniqueID: 2144820001
+    locked: 0
+  - name: Layer 2
+    uniqueID: 3729690107
+    locked: 0
+  - name: Layer 3
+    uniqueID: 2439310585
+    locked: 0
+  - name: Platform
+    uniqueID: 3751062907
+    locked: 0

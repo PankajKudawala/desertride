@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grass Land Adventures", "Assembly-CSharp.csproj", "{BEA908D6-8A05-F8CE-D1EE-3FF66BE99744}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grass Land Adventures", "Assembly-CSharp-Editor.csproj", "{B4B4975C-452B-EF7D-FDCF-96E50D3BAE28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEA908D6-8A05-F8CE-D1EE-3FF66BE99744}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEA908D6-8A05-F8CE-D1EE-3FF66BE99744}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEA908D6-8A05-F8CE-D1EE-3FF66BE99744}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEA908D6-8A05-F8CE-D1EE-3FF66BE99744}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4B4975C-452B-EF7D-FDCF-96E50D3BAE28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4B4975C-452B-EF7D-FDCF-96E50D3BAE28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4B4975C-452B-EF7D-FDCF-96E50D3BAE28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4B4975C-452B-EF7D-FDCF-96E50D3BAE28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
